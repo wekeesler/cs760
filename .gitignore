@@ -1,0 +1,6 @@
+# hidden files like IDE config, virtual envs, etc
+.*
+!.gitignore
+*.log
+*.png
+__*
